@@ -25,7 +25,7 @@
    - Achievements, Certificates and Proof of Work<br>
    	Prove that you followed a course, did a task or kill that boss with NTTs.
 
-<h3>2. Non-Transferable enabled building blocks (soulbound tokens)</h3>
+<h3>2. Non-Transferable enabled building blocks (soulbound tokens)</h3> <p>
 
 	2.0) ZK-ID for certificates and reputational track records to interact safely and authentically with the metaverse <br>
 	<img src= "https://user-images.githubusercontent.com/74720466/173893469-15401747-5014-4066-b745-cc6886e9949f.png" width="400" height="400"/>
@@ -42,6 +42,6 @@
 
 	Combine effortlessly DAOs Governances to have live or persistent higher-order organizations governed by the governance output of the components making up the system.
 
-	Coming soon, get on board we have a great filter ahead of us!
+	Coming soon, get on board we have a great filter ahead of us! </p>
 	
 
