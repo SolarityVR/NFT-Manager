@@ -1,6 +1,6 @@
 # Solarity
 
-1. <b>Passport Mint</b>
+<h2>1. Passport Mint</h2>
    
    - Mintable <br>
      Using Metaplex contract for nft mint.
