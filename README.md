@@ -36,6 +36,7 @@
 
 	Modular Recursive Governance for our DAO
 	![image](https://user-images.githubusercontent.com/74720466/173895359-35b97547-6fb7-4918-9ddf-2dfe012ad1de.png)
+
 	Coming soon, get on board we have a great filter ahead of us!
 	
 
