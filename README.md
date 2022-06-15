@@ -1,13 +1,13 @@
 # Solarity
 
  <h3> 1.Passport Mint</h3>
-   A non transferable NFT with dynamic metadata to aggregate your web3 and web2 identities. It is:<br>
-   - Mintable <br>
+   
+   - Mintable 
      Using Metaplex contract for nft mint.
-   - Mutable<br>
+   - Mutable
    	 Customized Metaplex metadata structure.
    	 The user can update the metadata and it can be synced with database real-time. 
-   - Non-transferable<br>
+   - Non-transferable
    	 The Token Manager program is compatible with the Solana NFTs, including all Metaplex master editions and editions. 
    	 To initialize a token-manager, the issuer must be owner of the NFT mint being issued.
    	 The user need to create token manager account using NFT publickey.<br>
