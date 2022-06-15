@@ -1,6 +1,6 @@
 # Solarity
 
-1. <h3>Passport Mint</h3>
+ <h3> 1.Passport Mint</h3>
    
    - Mintable <br>
      Using Metaplex contract for nft mint.
@@ -17,7 +17,7 @@
    	 The user can set transfer authority.
    	 The Token Manager program can be extended for rental, claim, certificates and other DAO functions.
 	 
-1.5 Certificates
+ <h3>1.5 Certificates</h3>
 
    - Proof of Attendance Tokens<br>
 	The same way you can pay a coffe using solana pay, you could airdrop a non-transferable token attesting that the address bound to the NTT, was 	   present at that event, this building block is useful for track records of previous jobs and any activity where reputation and history is important.
@@ -25,7 +25,7 @@
    - Achievements, Certificates and Proof of Work<br>
    	Prove that you followed a course, did a task or kill that boss with NTTs.
 
-2. Non-Transferable enabled building blocks (soulbound tokens)
+<h3>2. Non-Transferable enabled building blocks (soulbound tokens)</h3>
 
 	2.0) ZK-ID for certificates and reputational track records to interact safely and authentically with the metaverse <br>
 	<img src= "https://user-images.githubusercontent.com/74720466/173893469-15401747-5014-4066-b745-cc6886e9949f.png" width="400" height="400"/>
