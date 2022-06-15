@@ -28,22 +28,22 @@
 2. Non-Transferable enabled building blocks (soulbound tokens)
 
 	2.0) ZK-ID for certificates and reputational track records to interact safely and authentically with the metaverse
-	![image](https://user-images.githubusercontent.com/74720466/173893469-15401747-5014-4066-b745-cc6886e9949f.png)
+	![image](https://user-images.githubusercontent.com/74720466/173893469-15401747-5014-4066-b745-cc6886e9949f.png | width=100)
 
 	Building a new kind of social graph, focused on groups not individuals.
 	
 	2.1) Cheapest DAO Universal Governance Plug-In
-	![image](https://user-images.githubusercontent.com/74720466/173891568-809ddf0f-a951-427d-8202-1c07d13905c5.png)
+	![image](https://user-images.githubusercontent.com/74720466/173891568-809ddf0f-a951-427d-8202-1c07d13905c5.png | width=100)
 
 	A single platform to govern & sustain public goods transparently, remotely and locally.
 
 	2.2) Modular DAOs made to scale efficiently
-	![image](https://user-images.githubusercontent.com/74720466/173890477-18d3c399-3f63-4db5-981d-4e1ffe63fa68.png)
+	![image](https://user-images.githubusercontent.com/74720466/173890477-18d3c399-3f63-4db5-981d-4e1ffe63fa68.png | width=100)
 
 	Combine effortlessly DAOs Governances to have live or persistent higher-order organizations governed by the governance output of the components making up the system.
 
 	Modular Recursive Governance for our DAO
-	![image](https://user-images.githubusercontent.com/74720466/173895359-35b97547-6fb7-4918-9ddf-2dfe012ad1de.png)
+	![image](https://user-images.githubusercontent.com/74720466/173895359-35b97547-6fb7-4918-9ddf-2dfe012ad1de.png | width=100)
 
 	Coming soon, get on board we have a great filter ahead of us!
 	
