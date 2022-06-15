@@ -2,7 +2,7 @@
 
 1. Passport Mint
    
-   - Mintable
+   - Mintable <br>
      Using Metaplex contract for nft mint.
    
    - Mutable
@@ -24,8 +24,6 @@
   
    - Achievements, Certificates and Proof of Work
    	Prove that you followed a course, did a task or kill that boss with NTTs.
-
-1.5
 
 2. Non-Transferable enabled building blocks (soulbound tokens)
 
