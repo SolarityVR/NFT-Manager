@@ -33,17 +33,17 @@
 	Building a new kind of social graph, focused on groups not individuals.
 	
 	2.1) Cheapest DAO Universal Governance Plug-In<br>
-	<img src= "https://user-images.githubusercontent.com/74720466/173891568-809ddf0f-a951-427d-8202-1c07d13905c5.png" width="600" height="400"/>
+	<img src= "https://user-images.githubusercontent.com/74720466/173891568-809ddf0f-a951-427d-8202-1c07d13905c5.png" width="600" height="300"/>
 
 	A single platform to govern & sustain public goods transparently, remotely and locally.
 
 	2.2) Modular DAOs made to scale efficiently<br>
-	<img src= "https://user-images.githubusercontent.com/74720466/173890477-18d3c399-3f63-4db5-981d-4e1ffe63fa68.png" width="600" height="400"/>
+	<img src= "https://user-images.githubusercontent.com/74720466/173890477-18d3c399-3f63-4db5-981d-4e1ffe63fa68.png" width="600" height="300"/>
 
 	Combine effortlessly DAOs Governances to have live or persistent higher-order organizations governed by the governance output of the components making up the system.
 
 	Modular Recursive Governance for our DAO<br>
-	<img src="https://user-images.githubusercontent.com/74720466/173895359-35b97547-6fb7-4918-9ddf-2dfe012ad1de.png" width="600" height="400"/>
+	<img src="https://user-images.githubusercontent.com/74720466/173895359-35b97547-6fb7-4918-9ddf-2dfe012ad1de.png" width="600" height="300"/>
 
 	Coming soon, get on board we have a great filter ahead of us!
 	
