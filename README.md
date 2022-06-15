@@ -28,7 +28,7 @@
 2. Non-Transferable enabled building blocks (soulbound tokens)
 
 	2.0) ZK-ID for certificates and reputational track records to interact safely and authentically with the metaverse <br>
-	<img src= "https://user-images.githubusercontent.com/74720466/173893469-15401747-5014-4066-b745-cc6886e9949f.png" width="500" height="400"/>
+	<img src= "https://user-images.githubusercontent.com/74720466/173893469-15401747-5014-4066-b745-cc6886e9949f.png" width="400" height="400"/>
 
 	Building a new kind of social graph, focused on groups not individuals.
 	
