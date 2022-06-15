@@ -3,10 +3,10 @@
 1. Passport Mint
    
    - Mintable
-     Used the metaplex contract for nft mint.
+     Using Metaplex contract for nft mint.
    
    - Mutable
-   	 Used the metaplex metadata contract and customized the metadata structure.
+   	 Customized Metaplex metadata structure.
    	 The user can update the metadata and it can be synced with database real-time. 
    
    - Non-transferable
@@ -15,10 +15,17 @@
    	 The user need to create token manager account using NFT publickey.
 
    	 The user can set transfer authority.
-   	 The Token Manager program can be extended for rental, claim, and other DAO functions.
+   	 The Token Manager program can be extended for rental, claim, certificates and other DAO functions.
 	 
-1.5 Proof of Attendance Tokens
-	The same way you can pay a coffe using solana pay, you could airdrop a non-transferable token attesting that the address bound to the NTT, was present at that event, this building block is useful for track records of previous jobs and any activity where reputation and history is important.
+1.5 Certificates
+
+   - Proof of Attendance Tokens
+	The same way you can pay a coffe using solana pay, you could airdrop a non-transferable token attesting that the address bound to the NTT, was 	   present at that event, this building block is useful for track records of previous jobs and any activity where reputation and history is important.
+  
+   - Achievements, Certificates and Proof of Work
+   	Prove that you followed a course, did a task or kill that boss with NTTs.
+
+1.5
 
 2. Non-Transferable enabled building blocks (soulbound tokens)
 
