@@ -16,6 +16,9 @@
 
    	 The user can set transfer authority.
    	 The Token Manager program can be extended for rental, claim, and other DAO functions.
+	 
+1.5 Proof of Attendance Tokens
+	The same way you can pay a coffe using solana pay, you could airdrop a non-transferable token attesting that the address bound to the NTT, was present at that event, this building block is useful for track records of previous jobs and any activity where reputation and history is important.
 
 2. Non-Transferable enabled building blocks (soulbound tokens)
 
