@@ -27,10 +27,10 @@
 
 <h3>2. Non-Transferable enabled building blocks (soulbound tokens)</h3><br>
 	2.0) ZK-ID for certificates and reputational track records to interact safely and authentically with the metaverse <br>
-	<img src= "https://user-images.githubusercontent.com/74720466/173893469-15401747-5014-4066-b745-cc6886e9949f.png" width="400" height="400"/><br>
+	<img src= "https://user-images.githubusercontent.com/74720466/173893469-15401747-5014-4066-b745-cc6886e9949f.png" width="400" height="400"/>
 	Building a new kind of social graph, focused on groups not individuals.<br>
 	2.1) Cheapest DAO Universal Governance Plug-In<br>
-	<img src= "https://user-images.githubusercontent.com/74720466/173891568-809ddf0f-a951-427d-8202-1c07d13905c5.png" width="600" height="300"/><br>
+	<img src= "https://user-images.githubusercontent.com/74720466/173891568-809ddf0f-a951-427d-8202-1c07d13905c5.png" width="600" height="300"/>
 	A single platform to govern & sustain public goods transparently, remotely and locally.<br>
 	2.2) Modular DAOs made to scale efficiently<br>
 	<img src= "https://user-images.githubusercontent.com/74720466/173890477-18d3c399-3f63-4db5-981d-4e1ffe63fa68.png" width="600" height="300"/><br>
