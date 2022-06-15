@@ -1,7 +1,7 @@
 # Solarity
 
  <h3> 1.Passport Mint</h3>
-   A non transferable NFT with dynamic metadata to aggregate your web3 and web2 identities.
+   A non transferable NFT with dynamic metadata to aggregate your web3 and web2 identities. It is:<br>
    - Mintable <br>
      Using Metaplex contract for nft mint.
    - Mutable<br>
