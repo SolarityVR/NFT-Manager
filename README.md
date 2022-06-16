@@ -5,9 +5,11 @@
    
    - Mintable <br>
      Using Metaplex contract for nft mint.
+
    - Mutable<br>
    	 Customized Metaplex metadata structure.
    	 The user can update the metadata and it can be synced with database real-time. 
+
    - Non-transferable<br>
    	 The Token Manager program is compatible with the Solana NFTs, including all Metaplex master editions and editions. 
    	 To initialize a token-manager, the issuer must be owner of the NFT mint being issued.
@@ -16,12 +18,15 @@
    	 The Token Manager program can be extended for rental, claim, certificates and other DAO functions.
 	 
  <h3>1.5 Certificates</h3>
+	![image](https://user-images.githubusercontent.com/74720466/174049627-d0d46561-125b-4134-a416-241facbe2ae7.png)
 
    - Proof of Attendance Tokens<br>
 	The same way you can pay a coffe using solana pay, you could airdrop a non-transferable token attesting that the address bound to the NTT, was 	   present at that event, this building block is useful for track records of previous jobs and any activity where reputation and history is important.
   
    - Achievements, Certificates and Proof of Work<br>
    	Prove that you followed a course, did a task or kill that boss with NTTs.
+	![image](https://user-images.githubusercontent.com/74720466/174048025-34d87873-db44-4d98-bab8-21403026b9f1.png)
+
 
 <h3>2. Non-Transferable enabled building blocks (soulbound tokens)</h3><br>
 	ZK-ID for certificates and reputational track records to interact safely and authentically with the metaverse <br>
