@@ -18,7 +18,7 @@
    	 The Token Manager program can be extended for rental, claim, certificates and other DAO functions.
 	 
  <h3>1.5 Certificates</h3>
-	![image](https://user-images.githubusercontent.com/74720466/174056571-5e8f1311-30ee-46e8-9d51-a1edd86d5cb3.png)
+	![image](https://user-images.githubusercontent.com/74720466/174056713-fadfbd07-1f1f-4ef9-8fdc-cbadb8b7ba05.png)
 
    - Proof of Attendance Tokens<br>
 	The same way you can pay a coffe using solana pay, you could airdrop a non-transferable token attesting that the address bound to the NTT, was 	   present at that event, this building block is useful for track records of previous jobs and any activity where reputation and history is important.
